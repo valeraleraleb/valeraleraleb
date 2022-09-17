@@ -8,4 +8,4 @@ My name is Valeryia :monkey: and I am junior systems analyst.
 
 [Linkedin profile](https://www.linkedin.com/in/%D0%B2%D0%B0%D0%BB%D0%B5%D1%80%D0%B8%D1%8F-%D0%BB%D0%B5%D0%B1%D0%B5%D0%B4%D0%B5%D0%B2%D0%B0-70a8b6a4/)
 
-I am interested in ML and am going to be DS.
+I am going to be DS.
