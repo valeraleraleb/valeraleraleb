@@ -6,4 +6,4 @@ https://www.webfx.com/tools/emoji-cheat-sheet/-->
 
 My name is Valeriia and I am devepoer Qlik Sense\ Python\ VBA.
 
-https://www.linkedin.com/in/valeraleraleb/
+[LinkedIn](https://www.linkedin.com/in/valeraleraleb/)
